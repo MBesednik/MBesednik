@@ -2,7 +2,6 @@
 
 - 🔭 I'm currently studying at the Faculty of Organization and Informatics
 - 🌱 I’m currently learning JavaScript and React at Speck academy
-- 👯 I’m looking to collaborate on JavaScript
 - 💬 Ask me about anything
 - 📫 How to reach me: mateo.besednik@gmail.com
 - 😄 Pronouns: He/Him
@@ -13,4 +12,10 @@ _________________________________________
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbesednik)](https://github.com/anuraghazra/github-readme-stats)
 
-<i class="fab fa-facebook-square"></i>
+_________________________________________
+
+### My social networks: 💬
+
+Facebook: https://www.facebook.com/mateo.besednik/
+Instagram: https://www.instagram.com/mateo_besednik/?hl=hr
+Linkedin: https://www.linkedin.com/in/mateo-besednik-752172202/
