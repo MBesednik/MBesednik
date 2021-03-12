@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning JavaScript and React at Speck academy
 - 👯 I’m looking to collaborate on JavaScript
 - 💬 Ask me about anything
-- 📫 How to reach me: (mateo.besednik@gmail.com)
+- 📫 How to reach me: mateo.besednik@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Gym addicted
