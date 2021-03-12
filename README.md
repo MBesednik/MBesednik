@@ -16,6 +16,6 @@ _________________________________________
 
 ### My social networks: 💬
 
-Facebook: https://www.facebook.com/mateo.besednik/
-Instagram: https://www.instagram.com/mateo_besednik/?hl=hr
-Linkedin: https://www.linkedin.com/in/mateo-besednik-752172202/
+- Facebook: https://www.facebook.com/mateo.besednik/
+- Instagram: https://www.instagram.com/mateo_besednik/?hl=hr
+- Linkedin: https://www.linkedin.com/in/mateo-besednik-752172202/
