@@ -9,6 +9,8 @@
 - ⚡ Fun fact: Gym addicted
 _________________________________________
 
-### How active I am?
+### How active I am? 😄
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbesednik)](https://github.com/anuraghazra/github-readme-stats)
+
+<i class="fab fa-facebook-square"></i>
