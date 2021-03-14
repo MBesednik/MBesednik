@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently studying at the Faculty of Organization and Informatics
 - 🌱 I’m currently learning JavaScript and React at Speck academy
-- 💬 Ask me about anythin
+- 💬 Ask me about anything
 - 📫 How to reach me: mateo.besednik@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Gym addicted
