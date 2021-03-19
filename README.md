@@ -1,4 +1,5 @@
-### Hi there! Here is what I'm working on: 👋
+### Hi there! Here is what I'm working on: <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+👋
 
 - 🔭 I'm currently studying at the Faculty of Organization and Informatics
 - 🌱 I’m currently learning JavaScript and React at Speck academy
