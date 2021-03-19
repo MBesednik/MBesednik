@@ -8,7 +8,7 @@
 - ⚡ Fun fact: Gym addicted
 _________________________________________
 
-### How active I am? 😄
+### Some Github stats: 😄
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbesednik)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -16,7 +16,8 @@ _________________________________________
 
 ### My social networks: 💬
 
-- <a style="text-dexoration:none;color:#3b5998;" href="https://www.facebook.com/mateo.besednik/" target="blank">Facebook</a>
+- <a href="https://www.facebook.com/mateo.besednik/" target="blank">Facebook</a>
 - <a href="https://www.instagram.com/mateo_besednik/?hl=hr" target="blank">Instagram</a>
-- <a href="https://www.linkedin.com/in/mateo-besednik-752172202/" target="blank">Linkedin</a>
+- <a href="https://www.linkedin.com/in/mateo-besednik-752172202/" target="blank">Linkedin</a> U+1F60B
+
  
