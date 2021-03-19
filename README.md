@@ -8,13 +8,13 @@
 - 📫 How to reach me: mateo.besednik@gmail.com
 - 😄 Pronouns: He/Him
 - 💪🏽 Fun fact: Gym addicted
-_________________________________________
+<hr>
 
 ### Some Github stats: 📉
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbesednik)](https://github.com/anuraghazra/github-readme-stats)
 
-_________________________________________
+<hr>
 
 ### My social networks: 💬
 
