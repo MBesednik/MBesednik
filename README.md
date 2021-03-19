@@ -10,6 +10,7 @@
 - 💪🏽 Fun fact: Gym addicted
 <hr>
 ### Some Github stats: 📉
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbesednik)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 ### My social networks: 💬
