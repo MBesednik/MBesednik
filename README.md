@@ -1,6 +1,5 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-_________________________________________
-
+<hr>
 ### Here is what I'm working on: 
 
 - 🎓 I'm currently studying at the Faculty of Organization and Informatics
