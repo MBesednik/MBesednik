@@ -18,4 +18,4 @@ _________________________________________
 
 - Facebook: https://www.facebook.com/mateo.besednik/
 - Instagram: https://www.instagram.com/mateo_besednik/?hl=hr
-- <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> Linkedin: https://www.linkedin.com/in/mateo-besednik-752172202/
+- <img src="https://img.icons8.com/fluent/20/000000/linkedin.png"/> Linkedin: https://www.linkedin.com/in/mateo-besednik-752172202/
