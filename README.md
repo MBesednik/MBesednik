@@ -1,4 +1,4 @@
-### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I'm Mateo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <hr>
 ### Here is what I'm working on: 
 
@@ -9,13 +9,9 @@
 - 😄 Pronouns: He/Him
 - 💪🏽 Fun fact: Gym addicted
 <hr>
-
 ### Some Github stats: 📉
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbesednik)](https://github.com/anuraghazra/github-readme-stats)
-
 <hr>
-
 ### My social networks: 💬
 
 - <a href="https://www.facebook.com/mateo.besednik/" target="blank">Facebook</a>
