@@ -57,6 +57,10 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 </br>
 
 📊 **Technologies I use:**
+<br>
+[![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+)]
+
 https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 
 📈 **My GitHub Stats:**
