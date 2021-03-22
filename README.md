@@ -16,8 +16,6 @@ As you can see my name is Mateo and I am 21 years old. I am a third year student
 
 I started learning Frontend because I like to create things. I just love being creative and I enjoy using my obsessive attention to detail. In case you are interested in something more about me feel free to <a href="mailto:mateo.besednik@gmail.com">contact me</a>, I will be happy to answer any questions you may have.
 
-<hr>
-
 </br>
 </br>
 
@@ -49,6 +47,8 @@ I started learning Frontend because I like to create things. I just love being c
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 </br>
 ![VisualStudio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+</br>
 
 📈 **My GitHub Stats:**
 
