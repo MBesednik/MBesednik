@@ -24,7 +24,7 @@ I started learning Web development, more precisely Frontend because I like to cr
 🙋🏻‍♂️ **Talking about Personal Stuffs:**
 
 - 🎓 I'm currently studying at <a href="https://www.foi.unizg.hr/" target="_blank">FOI</a>
-- 👨🏻‍💻 I’m currently learning Javascript on <a href="freeCodeCamp" target="_blank">FreeCodeCamp</a>
+- 👨🏻‍💻 I’m currently learning Javascript on <a href="https://www.freecodecamp.org/learn" target="_blank">FreeCodeCamp</a>
 - 🚀 I also attend <a href="https://www.speck.agency/" target="_blank">Speck Academy</a>
 - 🤡 On weekends I work as an animator for kids at <a href="https://rg-kidsclub.eu/" target="_blank">RG Kids Club</a>
 - 💬 Ask me about anything, I am happy to help
