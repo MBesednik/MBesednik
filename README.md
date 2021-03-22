@@ -26,7 +26,7 @@
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 <hr>
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=MBesednik.MBesednik)
+## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=MBesednik.MBesednik)
 
 As you can see my name is Mateo and I am 21 years old. I am a third year student at the Faculty of Organization and Informatics. I love exercising, running, programming, speaking and traveling. Over the weekend I do student work as a children’s animator.
 
