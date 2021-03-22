@@ -1,3 +1,4 @@
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 <div align="center">
 
 ### Hi there, I'm <a href="https://www.linkedin.com/in/mateo-besednik-752172202/" target="_blank">Mateo Besednik</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
