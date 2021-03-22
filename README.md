@@ -12,11 +12,9 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=MBesednik.MBesednik)
 
-<pre>
 As you can see my name is Mateo and I am 21 years old. I am a third year student at the Faculty of Organization and Informatics. I love exercising, programming, speaking and traveling. Over the weekend I do student work as a children’s animator.
 
 I started learning Frontend because I like to create things. I just love being creative and I enjoy using my obsessive attention to detail. In case you are interested in something more about me feel free to <a href="mailto:mateo.besednik@gmail.com">contact me</a>, I will be happy to answer any questions you may have.
-</pre>
 
 </br>
 </br>
@@ -46,6 +44,7 @@ I started learning Frontend because I like to create things. I just love being c
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</br>
 ![VisualStudio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 📈 **My GitHub Stats:**
