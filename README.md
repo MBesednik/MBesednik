@@ -32,6 +32,8 @@ I started learning Frontend because I like to create things. I just love being c
 - 📫 How to reach me: mateo.besednik@gmail.com
 - 📝 [Resume](https://pdfhost.io/v/ClqynHWBE_Europass.pdf)
 
+<hr>
+
 </br></br></br></br>
 
 <div align="center">
@@ -51,9 +53,12 @@ I started learning Frontend because I like to create things. I just love being c
 </div>
 </br>
 
+<div align="center">
+
 📈 **My GitHub Stats:**
 
 <p>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MBesednik&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBesednik&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+</div>
