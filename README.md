@@ -8,13 +8,16 @@
 <a href="mailto:mateo.besednik@gmail.com">![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
 </div>
 
+</br>
+
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=MBesednik.MBesednik)
 
 As you can see my name is Mateo and I am 21 years old. I am a third year student at the Faculty of Organization and Informatics. I love exercising, programming, speaking and traveling. Over the weekend I do student work as a children’s animator.
 
 I started learning Frontend because I like to create things. I just love being creative and I enjoy using my obsessive attention to detail.
 
-<br>
+</br>
+</br>
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
   
@@ -33,7 +36,6 @@ I started learning Frontend because I like to create things. I just love being c
 
 📊 **Technologies I use:**
 
-</br>
 </br>
 
 ![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
