@@ -8,11 +8,13 @@
 <a href="mailto:mateo.besednik@gmail.com">![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
 </div>
 
+<hr>
+
 </br>
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=MBesednik.MBesednik)
 
-As you can see my name is Mateo and I am 21 years old. I am a third year student at the Faculty of Organization and Informatics. I love exercising, programming, speaking and traveling. Over the weekend I do student work as a children’s animator.
+As you can see my name is Mateo and I am 21 years old. I am a third year student at the Faculty of Organization and Informatics. I love exercising, running, programming, speaking and traveling. Over the weekend I do student work as a children’s animator.
 
 I started learning Frontend because I like to create things. I just love being creative and I enjoy using my obsessive attention to detail. In case you are interested in something more about me feel free to <a href="mailto:mateo.besednik@gmail.com">contact me</a>, I will be happy to answer any questions you may have.
 
@@ -22,12 +24,13 @@ I started learning Frontend because I like to create things. I just love being c
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
   
 
-**Talking about Personal Stuffs:**
+🙋🏻‍♂️ **Talking about Personal Stuffs:**
 
 - 🎓 I'm currently studying at <a href="https://www.foi.unizg.hr/">FOI</a>
 - 👨🏻‍💻 I’m currently learning Javascript on <a href="freeCodeCamp">FreeCodeCamp</a>
 - 🚀 I also attend <a href="https://www.speck.agency/">Speck Academy</a>
 - 🤡 On weekends I work as an animator for kids at <a href="https://rg-kidsclub.eu/">RG Kids Club</a>
+- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: mateo.besednik@gmail.com
 - 📝 [Resume](https://pdfhost.io/v/ClqynHWBE_Europass.pdf)
 
