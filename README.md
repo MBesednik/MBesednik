@@ -34,6 +34,8 @@ I started learning Frontend because I like to create things. I just love being c
 
 </br>
 
+<div align="center">
+
 📊 **Technologies I use:**
 
 </br>
@@ -47,7 +49,7 @@ I started learning Frontend because I like to create things. I just love being c
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 </br>
 ![VisualStudio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
+</div>
 </br>
 
 📈 **My GitHub Stats:**
