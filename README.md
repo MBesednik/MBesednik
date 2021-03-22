@@ -32,9 +32,8 @@ I started learning Frontend because I like to create things. I just love being c
 - 📫 How to reach me: mateo.besednik@gmail.com
 - 📝 [Resume](https://pdfhost.io/v/ClqynHWBE_Europass.pdf)
 
-<hr>
-
 </br></br></br></br>
+<hr>
 
 <div align="center">
 
