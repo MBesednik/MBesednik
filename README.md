@@ -47,7 +47,7 @@ I started learning Web development, more precisely Frontend because I like to cr
 - 📫 How to reach me: mateo.besednik@gmail.com
 - 📝 [Resume](https://pdfhost.io/v/ClqynHWBE_Europass.pdf)
 
-</br></br></br></br>
+</br></br></br>
 <hr>
 
 <div align="center">
