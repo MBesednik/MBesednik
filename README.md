@@ -17,7 +17,6 @@ As you can see my name is Mateo and I am 21 years old. I am a third year student
 I started learning Web development, more precisely Frontend because I like to create things. I just love being creative and I enjoy using my obsessive attention to detail. In case you are interested in something more about me feel free to <a href="mailto:mateo.besednik@gmail.com">contact me</a>, I will be happy to answer any questions you may have.
 
 </br>
-</br>
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
   
