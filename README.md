@@ -1,38 +1,3 @@
-### Hi there, I'm Mateo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-<hr>
-
-### Here is what I'm working on: 
-
-- 🎓 I'm currently studying at the Faculty of Organization and Informatics
-- 📚 I’m currently learning JavaScript and React at Speck academy
-- ❓ Ask me about anything
-- 📫 How to reach me: mateo.besednik@gmail.com
-- 😄 Pronouns: He/Him
-- 💪🏽 Fun fact: Gym addicted
-
-<hr>
-
-### Some Github stats: 📉
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbesednik)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr>
-
-### My social networks: 💬
-
-- <a href="https://www.facebook.com/mateo.besednik/" target="blank">Facebook</a>
-- <a href="https://www.instagram.com/mateo_besednik/?hl=hr" target="blank">Instagram</a>
-- <a href="https://www.linkedin.com/in/mateo-besednik-752172202/" target="blank">Linkedin</a> 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 <div align="center">
  
 ### Hi there, I'm <a href="https://www.linkedin.com/in/mateo-besednik-752172202/" target="_blank">Mateo Besednik</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -49,23 +14,26 @@ As you can see my name is Mateo and I am 21 years old. I am a third year student
 
 I started learning Frontend because I like to create things. I just love being creative and I enjoy using my obsessive attention to detail.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="400" height="310" />
   
 
 **Talking about Personal Stuffs:**
 
-- 🎓 I'm currently studying at the Faculty of Organization and Informatics;
-- 👨🏻‍💻 I’m currently learning Javascript on <a href="freeCodeCamp">FreeCodeCamp</a>;
-- 🚀 I also attend <a href="https://www.speck.agency/">Speck Academy</a>;
-- 🤡 On weekends I work as an animator for kids at <a href="https://rg-kidsclub.eu/">RG Kids Club</a>;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: mateo.besednik@gmail.com;
-- 📝 [Resume](https://pdfhost.io/v/ClqynHWBE_Europass.pdf).
+- 🎓 I'm currently studying at the Faculty of Organization and Informatics
+- 👨🏻‍💻 I’m currently learning Javascript on <a href="freeCodeCamp">FreeCodeCamp</a>
+- 🚀 I also attend <a href="https://www.speck.agency/">Speck Academy</a>
+- 🤡 On weekends I work as an animator for kids at <a href="https://rg-kidsclub.eu/">RG Kids Club</a>
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: mateo.besednik@gmail.com
+- 📝 [Resume](https://pdfhost.io/v/ClqynHWBE_Europass.pdf)
 
 </br>
 
 📊 **Technologies I use:**
+
 </br>
+</br>
+
 ![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -78,6 +46,6 @@ I started learning Frontend because I like to create things. I just love being c
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MBesednik&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBesednik&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MBesednik&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBesednik&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
