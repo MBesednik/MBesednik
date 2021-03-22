@@ -1,4 +1,3 @@
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 <div align="center">
 
 ### Hi there, I'm <a href="https://www.linkedin.com/in/mateo-besednik-752172202/" target="_blank">Mateo Besednik</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -8,7 +7,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mateo.besednik/)
 <a href="mailto:mateo.besednik@gmail.com">![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
 </div>
-
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 <hr>
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=MBesednik.MBesednik)
@@ -62,3 +61,9 @@ I started learning Web development, more precisely Frontend because I like to cr
 </p>
 </div>
 <hr>
+<h3 align="center">
+	⬇⬇ Check my pinned projects below ⬇⬇
+</h3>
+<p align="center">
+	<i>Please take into account they are WIP!<i>
+</p>
