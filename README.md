@@ -42,35 +42,29 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mateo.besednik/)
 <a href="mailto:mateo.besednik@gmail.com">![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
 </div>
-<a href="mailto:webmaster@example.com">
-<br>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://instagram.com/gkassym/)
-https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=MBesednik.MBesednik)
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+As you can see my name is Mateo and I am 21 years old. I am a third year student at the Faculty of Organization and Informatics. I love exercising, programming, speaking and traveling. Over the weekend I do student work as a children’s animator.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+I started learning Frontend because I like to create things. I just love being creative and I enjoy using my obsessive attention to detail.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- 🎓 I'm currently studying at the Faculty of Organization and Informatics;
+- 👨🏻‍💻 I’m currently learning Javascript on <a href="freeCodeCamp">FreeCodeCamp</a>;
+- 🚀 I also attend <a href="https://www.speck.agency/">Speck Academy</a>;
+- 🤡 On weekends I work as an animator for kids at <a href="https://rg-kidsclub.eu/">RG Kids Club</a>;
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
-- 📫 How to reach me: gapur.kassym@gmail.com;
+- 📫 How to reach me: mateo.besednik@gmail.com;
 - 📝 [Resume](https://pdfhost.io/v/ClqynHWBE_Europass.pdf).
 
 </br>
 
 📊 **Technologies I use:**
-</br>
 </br>
 ![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -84,6 +78,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MBesednik&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBesednik&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MBesednik&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBesednik&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
