@@ -5,21 +5,27 @@
 <a href="https://www.linkedin.com/in/mateo-besednik-752172202">
   <img alt="Mateo's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
+
 <a href="https://www.instagram.com/mateo_besednik/?hl=hr">
   <img alt="Mateo's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+
 <a href="https://www.facebook.com/mateo.besednik/">
   <img alt="Mateo's Facebook" width="100px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
+
 <a href="https://github.com/MBesednik">
   <img alt="Mateo's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
+
 <a href="https://www.coursera.org/user/bfeb50cc0d3d94199b1a5de27a35af6c">
   <img alt="Mateo's Coursera" width="100px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
 </a>
+
 <a href="mailto:mateo.besednik@gmail.com">
   <img alt="Mateo's Gmail" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
+
 </div>
 </br>
 
