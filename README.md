@@ -84,7 +84,7 @@ I started learning Web development, more precisely Frontend because I like to cr
 </div>
 <hr>
 <h3 align="center">
-	⬇⬇ Check my pinned projects below ⬇⬇
+	⬇⬇ Check out my pinned projects below ⬇⬇
 </h3>
 <p align="center">
 	<i>Enjoy while doing it!<i>
