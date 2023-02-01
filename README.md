@@ -51,7 +51,7 @@ I started learning Web development, more precisely Frontend because I like to cr
 - 🤡 On weekends I work as an animator for kids at <a href="https://rg-kidsclub.eu/" target="_blank">RG Kids Club</a>
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: mateo.besednik@gmail.com
-- 📝 [Resume][https://pdfhost.io/v/~Hj90ArLb_mateobesednikcv]
+- 📝 Resume <a href="https://pdfhost.io/v/~Hj90ArLb_mateobesednikcv" target="_blank">mateo-besednik-CV.pdf</a>
 
 </br></br></br></br>
 <hr>
