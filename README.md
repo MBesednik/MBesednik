@@ -34,7 +34,7 @@
 
 ## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=MBesednik.MBesednik)
 
-As you can see my name is Mateo and I am 23 years old. I am a third year student at the Faculty of Organization and Informatics. I love exercising, running, programming, speaking and traveling. Over the weekend I work as a children’s animator.
+As you can see my name is Mateo and I am 25 years old. I am a third year student at the Faculty of Organization and Informatics. I love exercising, running, programming, speaking and traveling. Over the weekend I work as a children’s animator.
 
 I started learning Web development, more precisely Frontend because I like to create things. I just love being creative and I enjoy using my obsessive attention to detail. In case you are interested in something more about me feel free to <a href="mailto:mateo.besednik@gmail.com">contact me</a>, I will be happy to answer any questions you may have.
 
