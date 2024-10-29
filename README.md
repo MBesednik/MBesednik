@@ -34,7 +34,7 @@
 
 ## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=MBesednik.MBesednik)
 
-As you can see my name is Mateo and I am 25 years old. I am a third year student at the Faculty of Organization and Informatics. I love exercising, running, programming, speaking and traveling. Over the weekend I work as a children’s animator.
+Hi everyone! My name is Mateo and I am 25 years old. I am a fifth year student at the Faculty of Organization and Informatics. I love exercising, running, programming, speaking and traveling.
 
 I started learning Web development, more precisely Frontend because I like to create things. I just love being creative and I enjoy using my obsessive attention to detail. In case you are interested in something more about me feel free to <a href="mailto:mateo.besednik@gmail.com">contact me</a>, I will be happy to answer any questions you may have.
 
@@ -46,9 +46,8 @@ I started learning Web development, more precisely Frontend because I like to cr
 🙋🏻‍♂️ **Talking about Personal Stuffs:**
 
 - 🎓 I'm currently studying at <a href="https://www.foi.unizg.hr/" target="_blank">FOI</a>
-- 👨🏻‍💻 I’m currently learning Javascript on <a href="https://www.freecodecamp.org/learn" target="_blank">FreeCodeCamp</a>
+- 👨🏻‍💻 I work at Siemens-energy as Mendix Developer
 - 🚀 I also attend <a href="https://www.speck.agency/" target="_blank">Speck Academy</a>
-- 🤡 On weekends I work as an animator for kids at <a href="https://rg-kidsclub.eu/" target="_blank">RG Kids Club</a>
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: mateo.besednik@gmail.com
 - 📝 Resume <a href="https://mbesednik-cv.tiiny.site/" target="_blank">Mateo_Besednik-CV.pdf</a>
