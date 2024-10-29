@@ -47,7 +47,7 @@ I started learning Web development, more precisely Frontend because I like to cr
 
 - 🎓 I'm currently studying at <a href="https://www.foi.unizg.hr/" target="_blank">FOI</a>
 - 👨🏻‍💻 I work at Siemens-energy as Mendix Developer
-- 🚀 I also attend <a href="https://www.speck.agency/" target="_blank">Speck Academy</a>
+- 🚀 I attended the <a href="https://www.speck.agency/" target="_blank">Speck Academy</a>
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: mateo.besednik@gmail.com
 - 📝 Resume <a href="https://mbesednik-cv.tiiny.site/" target="_blank">Mateo_Besednik-CV.pdf</a>
